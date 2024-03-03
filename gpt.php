@@ -2,7 +2,7 @@
     <form action="" method="POST">
         <label for="day">День рождения пользователя</label>
         <input id="day" name="day" type="number" value="10" max="31">
-        <label for="month">Месяц рождения</label>
+        <label for="month">Месяц рождения пользователя</label>
         <input id="month" name="month" type="number" value="5" max="12">
         <label for="year">Год рождения</label>
         <input id="year" name="year" type="number" value="1990" max="2024">
