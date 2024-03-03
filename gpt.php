@@ -4,11 +4,11 @@
         <input id="day" name="day" type="number" value="10" max="31">
         <label for="month">Месяц рождения пользователя</label>
         <input id="month" name="month" type="number" value="5" max="12">
-        <label for="year">Год рождения</label>
+        <label for="year">Год рождения пользователя</label>
         <input id="year" name="year" type="number" value="1990" max="2024">
-        <label for="hour">Час рождения</label>
+        <label for="hour">Час рождения пользователя</label>
         <input id="hour" name="hour" type="number" value="19" max="23"> 
-        <label for="min">Минута рождения</label>
+        <label for="min">Минута рождения пользователя</label>
         <input id="min" name="min" type="number" value="55" max="59"> 
         <label for="lat">Lat</label>
         <input id="lat" name="lat" type="text" value="19.2">
