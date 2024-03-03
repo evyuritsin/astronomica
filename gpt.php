@@ -1,14 +1,14 @@
 <div class="forms">
     <form action="" method="POST">
-        <label for="day">День</label>
+        <label for="day">День рождения</label>
         <input id="day" name="day" type="number" value="10" max="31">
-        <label for="month">Месяц</label>
+        <label for="month">Месяц рождения</label>
         <input id="month" name="month" type="number" value="5" max="12">
-        <label for="year">Год</label>
+        <label for="year">Год рождения</label>
         <input id="year" name="year" type="number" value="1990" max="2024">
-        <label for="hour">Час</label>
+        <label for="hour">Час рождения</label>
         <input id="hour" name="hour" type="number" value="19" max="23"> 
-        <label for="min">Минута</label>
+        <label for="min">Минута рождения</label>
         <input id="min" name="min" type="number" value="55" max="59"> 
         <label for="lat">Lat</label>
         <input id="lat" name="lat" type="text" value="19.2">
@@ -19,15 +19,15 @@
         <input name="astro" type="submit" value="Отправить">
     </form>
     <form action="" method="POST">
-    <label for="day">День</label>
+    <label for="day">День рождения</label>
         <input id="day" name="day" type="number" value="10" max="31">
-        <label for="month">Месяц</label>
+        <label for="month">Месяц рождения</label>
         <input id="month" name="month" type="number" value="5" max="12">
-        <label for="year">Год</label>
+        <label for="year">Год рождения</label>
         <input id="year" name="year" type="number" value="1990" max="2024">
-        <label for="hour">Час</label>
+        <label for="hour">Час рождения</label>
         <input id="hour" name="hour" type="number" value="19" max="23"> 
-        <label for="min">Минута</label>
+        <label for="min">Минута рождения</label>
         <input id="min" name="min" type="number" value="55" max="59"> 
         <label for="lat">Lat</label>
         <input id="lat" name="lat" type="text" value="19.2">
