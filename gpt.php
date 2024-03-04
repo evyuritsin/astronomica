@@ -1,6 +1,6 @@
 <div class="forms">
     <form action="" method="POST">
-        <label for="day">День рождения пользователя!</label>
+        <label for="day">День рождения пользователя!!</label>
         <input id="day" name="day" type="number" value="10" max="31">
         <label for="month">Месяц рождения пользователя </label>
         <input id="month" name="month" type="number" value="5" max="12">
