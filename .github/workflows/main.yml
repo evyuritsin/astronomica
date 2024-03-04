@@ -21,7 +21,7 @@ jobs:
                     DEPLOY_KEY: ${{secrets.DEPLOY_KEY}}
                 with:
                     flags: '-avc --delete'
-                    src: 'dist/'
+                    src: '/'
                     dest: 'root@"${{secrets.SERVER_IP}}":var/www/clients/client0/web1/web'
  
             -   name: Display status from deploy
